@@ -5,7 +5,7 @@
         <StackLayout>
             <DatePicker x:Name="stpTest2" MinimumDate="01/01/2018"
                         MaximumDate="12/31/2021"
-                        Date="06/21/2013"/>
+                        Date="06/21/2018"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

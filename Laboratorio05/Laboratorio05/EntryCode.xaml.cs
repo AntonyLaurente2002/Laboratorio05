@@ -17,7 +17,7 @@ namespace Laboratorio05
             InitializeComponent();
 
             StackLayout stack = new StackLayout();
-            var entry = new Entry { Text = "Thi is a read-only Entry"}
+            var entry = new Entry { Text = "Thi is a read-only Entry" };
             stack.Children.Add(entry);
             Content = stack;
         }
